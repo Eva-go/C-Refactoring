@@ -1,0 +1,11 @@
+=== Debugged: E:\CPP_Refactoring\Cpp\Project1\Day1.cpp ===
+=== Timestamp: 2024-12-30 18:22:00 ===
+#include "SaveFile.h"
+
+int main() {
+
+    //TODO save file
+    logSourceCode(__FILE__);
+    return 0;
+}
+
